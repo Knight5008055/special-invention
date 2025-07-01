@@ -13,3 +13,5 @@ Please review sig_gen.ipynb for a full in depth walk through of the example.
 Simple python wrapper for Ollama Local LLMs. Primary usage is for remote connections. 
 
 <img width="692" alt="image" src="https://github.com/user-attachments/assets/b0150fd9-1f01-4b77-8325-a29f1d066b63" />
+
+See ollama_llm.ipynb for code.
