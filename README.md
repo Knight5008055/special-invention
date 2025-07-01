@@ -7,7 +7,7 @@ Using the threashold based analysis and elbow method to determine the number of 
 
 Please review sig_gen.ipynb for a full in depth walk through of the example. 
 
-======================================================================================================================
+============================================================================================
 
 
 Simple python wrapper for Ollama Local LLMs. Primary usage is for remote connections. 
